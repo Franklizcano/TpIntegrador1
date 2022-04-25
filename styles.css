@@ -1,0 +1,23 @@
+#imgCarousel {
+   height: 70%;
+   max-width: none;
+   left: 50%;
+   position: relative;
+   transform: translateX(-50%);
+   -webkit-transform: translateX(-50%);
+}
+
+.card-group > .card {
+    margin-top: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.form {
+    text-align: center;
+}
+
+.form > p {
+    margin-bottom: -0px;
+    font-size: 13px;
+}
